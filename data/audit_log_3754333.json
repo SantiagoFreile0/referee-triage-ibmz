@@ -1,0 +1,1039 @@
+[
+ {
+  "entry": {
+   "incident_id": "e6bb526a-2f4b-453e-9832-c592ce4c3b85",
+   "match_id": 3754333,
+   "minute": 1,
+   "player": "Andros Townsend",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.2687,
+   "surprise": 0.231,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:47.870168+00:00"
+  },
+  "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+  "hash": "440ee855d8ae7e6d1d173c96a59b387a698702353718e0a49d570d92fedc1a3b"
+ },
+ {
+  "entry": {
+   "incident_id": "df8f977d-fa77-45bc-8220-746b03417767",
+   "match_id": 3754333,
+   "minute": 2,
+   "player": "Cheik Isma\u00ebl Tiot\u00e9",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7593,
+   "surprise": -0.205,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:48.024655+00:00"
+  },
+  "prev_hash": "440ee855d8ae7e6d1d173c96a59b387a698702353718e0a49d570d92fedc1a3b",
+  "hash": "fd8f78506c9b06910b4bf37689b78e40fce6535bfcdc9b4bf960eeb059cb961f"
+ },
+ {
+  "entry": {
+   "incident_id": "a54024b3-a27b-4e71-8cba-5199bb5653f0",
+   "match_id": 3754333,
+   "minute": 4,
+   "player": "Ryan Mason",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.4952,
+   "surprise": 0.223,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:48.179756+00:00"
+  },
+  "prev_hash": "fd8f78506c9b06910b4bf37689b78e40fce6535bfcdc9b4bf960eeb059cb961f",
+  "hash": "be9832b132e81f3ff936cffb153a554911d49ffa27b13446483dfaeb9d7f6deb"
+ },
+ {
+  "entry": {
+   "incident_id": "24031441-1cb8-43df-894d-990b99733493",
+   "match_id": 3754333,
+   "minute": 5,
+   "player": "Daryl Janmaat",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7972,
+   "surprise": -0.254,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:48.334547+00:00"
+  },
+  "prev_hash": "be9832b132e81f3ff936cffb153a554911d49ffa27b13446483dfaeb9d7f6deb",
+  "hash": "eced23bbd0d52741052fb4d97f0b1e5630cff65f07fb3dec56def974bbd38960"
+ },
+ {
+  "entry": {
+   "incident_id": "a080055a-a2b7-468e-b9fd-1bcc40544bd8",
+   "match_id": 3754333,
+   "minute": 5,
+   "player": "Cheik Isma\u00ebl Tiot\u00e9",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7459,
+   "surprise": -0.187,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:48.489140+00:00"
+  },
+  "prev_hash": "eced23bbd0d52741052fb4d97f0b1e5630cff65f07fb3dec56def974bbd38960",
+  "hash": "fc5d9a757a59b8582473a12eb1472b8e1b6c6e515bf8c3ff92328d30ecf81c1e"
+ },
+ {
+  "entry": {
+   "incident_id": "4197969c-1a83-423f-94f3-4cfaaa37d237",
+   "match_id": 3754333,
+   "minute": 7,
+   "player": "Daryl Janmaat",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.84,
+   "surprise": -0.306,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:48.643668+00:00"
+  },
+  "prev_hash": "fc5d9a757a59b8582473a12eb1472b8e1b6c6e515bf8c3ff92328d30ecf81c1e",
+  "hash": "198884bd2d77cb40c1a776c7423d777d95f64af321e009d87e10fefdb6d3ae2f"
+ },
+ {
+  "entry": {
+   "incident_id": "d1c0e783-cce2-4828-97a7-fbcaffc6a3e3",
+   "match_id": 3754333,
+   "minute": 8,
+   "player": "Cheik Isma\u00ebl Tiot\u00e9",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.4754,
+   "surprise": 0.263,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:48.798958+00:00"
+  },
+  "prev_hash": "198884bd2d77cb40c1a776c7423d777d95f64af321e009d87e10fefdb6d3ae2f",
+  "hash": "a9aaee1e1579bb4947cf622c408c959346428fcc6413b8b51ae596ed29733cbc"
+ },
+ {
+  "entry": {
+   "incident_id": "1755c1c1-21e9-40dc-b9d6-aa1b1327ba55",
+   "match_id": 3754333,
+   "minute": 8,
+   "player": "Erik Lamela",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "foul",
+   "p_call": 0.5291,
+   "surprise": -0.447,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:48.953651+00:00"
+  },
+  "prev_hash": "a9aaee1e1579bb4947cf622c408c959346428fcc6413b8b51ae596ed29733cbc",
+  "hash": "daaee9bb6cd17440d1a6f20db580103ec1ad7d11512030e4128ed1031907f80d"
+ },
+ {
+  "entry": {
+   "incident_id": "9b20e705-e29a-4ed7-ab3b-19cdb9c74669",
+   "match_id": 3754333,
+   "minute": 9,
+   "player": "Kyle Walker",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7603,
+   "surprise": -0.206,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:49.108268+00:00"
+  },
+  "prev_hash": "daaee9bb6cd17440d1a6f20db580103ec1ad7d11512030e4128ed1031907f80d",
+  "hash": "1adb6f0dba18fa30ce7ea1fc0949ad80ef1d70dc276a8c740d7d942a33a1dfbd"
+ },
+ {
+  "entry": {
+   "incident_id": "9673e1bc-a05c-4df5-91e8-17ebec06654a",
+   "match_id": 3754333,
+   "minute": 11,
+   "player": "Christian Dannemann Eriksen",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.4838,
+   "surprise": 0.246,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:49.262921+00:00"
+  },
+  "prev_hash": "1adb6f0dba18fa30ce7ea1fc0949ad80ef1d70dc276a8c740d7d942a33a1dfbd",
+  "hash": "eef00001a66c3997ae5b73532a6567879c127e4c02235b9ff21775778146e80f"
+ },
+ {
+  "entry": {
+   "incident_id": "96d7ec12-727f-44e1-a492-36a82dcb07af",
+   "match_id": 3754333,
+   "minute": 11,
+   "player": "Daryl Janmaat",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.8893,
+   "surprise": -0.363,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:49.417561+00:00"
+  },
+  "prev_hash": "eef00001a66c3997ae5b73532a6567879c127e4c02235b9ff21775778146e80f",
+  "hash": "6dcf71db39d56c8e54c41d60a361555a4d66fc0292c53c084ca69fea29fc10e5"
+ },
+ {
+  "entry": {
+   "incident_id": "88a25b51-7001-4fe4-a02c-d153f23facae",
+   "match_id": 3754333,
+   "minute": 11,
+   "player": "Ryan Mason",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.6549,
+   "surprise": -0.057,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:49.572228+00:00"
+  },
+  "prev_hash": "6dcf71db39d56c8e54c41d60a361555a4d66fc0292c53c084ca69fea29fc10e5",
+  "hash": "d3e73974c8f745f7fdcdd3a0f5f0b16c094be66b3d414e1152042788dad1a80c"
+ },
+ {
+  "entry": {
+   "incident_id": "9e977a8e-34e2-44d8-8248-b4ee0fd9948c",
+   "match_id": 3754333,
+   "minute": 12,
+   "player": "Christian Dannemann Eriksen",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.5837,
+   "surprise": 0.058,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:49.726814+00:00"
+  },
+  "prev_hash": "d3e73974c8f745f7fdcdd3a0f5f0b16c094be66b3d414e1152042788dad1a80c",
+  "hash": "190d6ca0645c7e727574a4ecb38c5a56af481fe3c7940b2c4997cff74dd22fe9"
+ },
+ {
+  "entry": {
+   "incident_id": "2f5b975f-a91e-4163-93f6-58102302065b",
+   "match_id": 3754333,
+   "minute": 13,
+   "player": "Jack Colback",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.8631,
+   "surprise": -0.333,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:49.881350+00:00"
+  },
+  "prev_hash": "190d6ca0645c7e727574a4ecb38c5a56af481fe3c7940b2c4997cff74dd22fe9",
+  "hash": "6df48163d004e30eb5c9ce1302916bd81b2833c7e553acdcf0bbbc0a3358c98b"
+ },
+ {
+  "entry": {
+   "incident_id": "5e7291fd-03bd-443b-a2e1-74ff05434b0a",
+   "match_id": 3754333,
+   "minute": 15,
+   "player": "Chancel Mbemba Mangulu",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7442,
+   "surprise": -0.185,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:50.036074+00:00"
+  },
+  "prev_hash": "6df48163d004e30eb5c9ce1302916bd81b2833c7e553acdcf0bbbc0a3358c98b",
+  "hash": "2547ac6fd5538fd2c9090d3d420ef4fcf8205b6bab7cc979a40dab2181d6b17d"
+ },
+ {
+  "entry": {
+   "incident_id": "673f2d6f-2216-499d-9d59-aa686ef4a159",
+   "match_id": 3754333,
+   "minute": 15,
+   "player": "Kyle Walker",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.2551,
+   "surprise": 0.283,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:50.191048+00:00"
+  },
+  "prev_hash": "2547ac6fd5538fd2c9090d3d420ef4fcf8205b6bab7cc979a40dab2181d6b17d",
+  "hash": "31bba3ae77f6ac16e096e08db24d15c8594abf0c0fdbabce7b82c85b1df5acd4"
+ },
+ {
+  "entry": {
+   "incident_id": "f71dd990-6e51-4212-bf98-630b8b447931",
+   "match_id": 3754333,
+   "minute": 16,
+   "player": "Cheik Isma\u00ebl Tiot\u00e9",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.5173,
+   "surprise": 0.179,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:50.345831+00:00"
+  },
+  "prev_hash": "31bba3ae77f6ac16e096e08db24d15c8594abf0c0fdbabce7b82c85b1df5acd4",
+  "hash": "4ea3a0c0e41cc4f6bb7112fd6d6e75a3a509b0b0cca46aa001a4ed08c90013cd"
+ },
+ {
+  "entry": {
+   "incident_id": "8a4cdfdf-0c37-4230-86e1-3a932a3f4982",
+   "match_id": 3754333,
+   "minute": 16,
+   "player": "Chancel Mbemba Mangulu",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.5528,
+   "surprise": 0.113,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:50.500556+00:00"
+  },
+  "prev_hash": "4ea3a0c0e41cc4f6bb7112fd6d6e75a3a509b0b0cca46aa001a4ed08c90013cd",
+  "hash": "16b4a285f04f3d48c40fd21039e89017043a3fbcf72db2430aef9025ef6055d9"
+ },
+ {
+  "entry": {
+   "incident_id": "fc3b54c0-4d43-4a4f-99ec-c98de81bd9c0",
+   "match_id": 3754333,
+   "minute": 17,
+   "player": "Aleksandar Mitrovi\u0107",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.44,
+   "surprise": 0.341,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:50.654919+00:00"
+  },
+  "prev_hash": "16b4a285f04f3d48c40fd21039e89017043a3fbcf72db2430aef9025ef6055d9",
+  "hash": "4da0c7b668e24a721534c2c57e709a5be79189692d65fc391384e1447bc89335"
+ },
+ {
+  "entry": {
+   "incident_id": "967b38f6-00ad-4b17-b81a-b6b60c1c3e12",
+   "match_id": 3754333,
+   "minute": 18,
+   "player": "Erik Lamela",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.5458,
+   "surprise": 0.125,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:50.809758+00:00"
+  },
+  "prev_hash": "4da0c7b668e24a721534c2c57e709a5be79189692d65fc391384e1447bc89335",
+  "hash": "3eeb6d962d6aa9a5b963a98185e6e176abba76027e09a9936b0d7bd0e6633a56"
+ },
+ {
+  "entry": {
+   "incident_id": "5aee86e2-858e-4445-81b7-8b5d3c719dc4",
+   "match_id": 3754333,
+   "minute": 19,
+   "player": "Kyle Walker",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.5162,
+   "surprise": 0.181,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:50.964557+00:00"
+  },
+  "prev_hash": "3eeb6d962d6aa9a5b963a98185e6e176abba76027e09a9936b0d7bd0e6633a56",
+  "hash": "85c3b26a5db29311b0e6f46e049c489ac24fd5b31feb759df445f540f5750ce4"
+ },
+ {
+  "entry": {
+   "incident_id": "c27f41a5-77c9-497f-bd7b-efdc37ea98a5",
+   "match_id": 3754333,
+   "minute": 19,
+   "player": "Jack Colback",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.936,
+   "surprise": -0.414,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:51.119584+00:00"
+  },
+  "prev_hash": "85c3b26a5db29311b0e6f46e049c489ac24fd5b31feb759df445f540f5750ce4",
+  "hash": "d4dbde80148e1444bdc9a9763426d110f066a52896409f73dd07c6680787f8e4"
+ },
+ {
+  "entry": {
+   "incident_id": "b608fd45-e45a-47e3-8234-980a9f4bb670",
+   "match_id": 3754333,
+   "minute": 20,
+   "player": "Aleksandar Mitrovi\u0107",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.6656,
+   "surprise": -0.073,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:51.274399+00:00"
+  },
+  "prev_hash": "d4dbde80148e1444bdc9a9763426d110f066a52896409f73dd07c6680787f8e4",
+  "hash": "f73899969348a76e43275ef5abbf86f77fe6149e1f216920e39544edff00d1be"
+ },
+ {
+  "entry": {
+   "incident_id": "02ba658e-31a8-42f1-a574-3a9bd19adab9",
+   "match_id": 3754333,
+   "minute": 24,
+   "player": "Moussa Sissoko",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.5972,
+   "surprise": 0.035,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:51.429563+00:00"
+  },
+  "prev_hash": "f73899969348a76e43275ef5abbf86f77fe6149e1f216920e39544edff00d1be",
+  "hash": "f36ec051dbeef6153f30e220e1052a509c53f90480509cf60c6f8c836255ee93"
+ },
+ {
+  "entry": {
+   "incident_id": "a7e41c9c-6e5c-4358-ae66-40d342c577b5",
+   "match_id": 3754333,
+   "minute": 26,
+   "player": "Jack Colback",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.446,
+   "surprise": -0.276,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:51.584574+00:00"
+  },
+  "prev_hash": "f36ec051dbeef6153f30e220e1052a509c53f90480509cf60c6f8c836255ee93",
+  "hash": "8aa4ff7080a0d4c1dc18e2944ec4b4fbeefc91a7e67f47da200d94f5e6900355"
+ },
+ {
+  "entry": {
+   "incident_id": "881cf04c-bc80-41b2-b8e1-e18e1db3813c",
+   "match_id": 3754333,
+   "minute": 26,
+   "player": "Heung-Min Son",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "foul",
+   "p_call": 0.6483,
+   "surprise": -0.65,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:51.739492+00:00"
+  },
+  "prev_hash": "8aa4ff7080a0d4c1dc18e2944ec4b4fbeefc91a7e67f47da200d94f5e6900355",
+  "hash": "3b2939fe22baa8b465020efa01bdc0f4d5d08ce99e8fdad25dd6aa006e2e142c"
+ },
+ {
+  "entry": {
+   "incident_id": "8b4cfef7-a071-400d-9525-6506f2e5000d",
+   "match_id": 3754333,
+   "minute": 30,
+   "player": "Ben Davies",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7993,
+   "surprise": -0.256,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:51.894462+00:00"
+  },
+  "prev_hash": "3b2939fe22baa8b465020efa01bdc0f4d5d08ce99e8fdad25dd6aa006e2e142c",
+  "hash": "68d452c4b4b826b4f740233e480ba2d86473ad1654161ac020755b175c3160bd"
+ },
+ {
+  "entry": {
+   "incident_id": "24e5488f-d83b-4664-8f0f-2d54a3a3aeb4",
+   "match_id": 3754333,
+   "minute": 32,
+   "player": "Jack Colback",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.6521,
+   "surprise": -0.053,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:52.049346+00:00"
+  },
+  "prev_hash": "68d452c4b4b826b4f740233e480ba2d86473ad1654161ac020755b175c3160bd",
+  "hash": "ac611623bf0d9a90abd4060098008bdae36157c54699b2c3b7b4d82fdc8c9764"
+ },
+ {
+  "entry": {
+   "incident_id": "f5f54dfa-736b-4402-bfd0-deaa132cca67",
+   "match_id": 3754333,
+   "minute": 37,
+   "player": "Aleksandar Mitrovi\u0107",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "foul",
+   "p_call": 0.6529,
+   "surprise": -0.657,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:52.209193+00:00"
+  },
+  "prev_hash": "ac611623bf0d9a90abd4060098008bdae36157c54699b2c3b7b4d82fdc8c9764",
+  "hash": "3ad21c47d8b04d4dc226c694ddc3a13e12c781cb361b5dc559d3677e6ff068b2"
+ },
+ {
+  "entry": {
+   "incident_id": "afa371e5-3056-437c-8479-dc74d7a1b3da",
+   "match_id": 3754333,
+   "minute": 43,
+   "player": "Cheik Isma\u00ebl Tiot\u00e9",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.6446,
+   "surprise": -0.041,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:52.364555+00:00"
+  },
+  "prev_hash": "3ad21c47d8b04d4dc226c694ddc3a13e12c781cb361b5dc559d3677e6ff068b2",
+  "hash": "e9a06e8d1736ff8b1f01b390d4f65b405697d8f03a879bd19cc624150fb6cdb4"
+ },
+ {
+  "entry": {
+   "incident_id": "9643d698-4e58-4103-98ba-c737c3516eba",
+   "match_id": 3754333,
+   "minute": 44,
+   "player": "Erik Lamela",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.4021,
+   "surprise": 0.431,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:52.519579+00:00"
+  },
+  "prev_hash": "e9a06e8d1736ff8b1f01b390d4f65b405697d8f03a879bd19cc624150fb6cdb4",
+  "hash": "3d24b6e5a15f05256fad7666b292fbd7c05b55c518cfa9d364e85bed9ec7636a"
+ },
+ {
+  "entry": {
+   "incident_id": "c6a337a8-a0cc-4db1-bdce-2c7c20e13ce5",
+   "match_id": 3754333,
+   "minute": 44,
+   "player": "Eric Dier",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.4425,
+   "surprise": -0.268,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:52.674675+00:00"
+  },
+  "prev_hash": "3d24b6e5a15f05256fad7666b292fbd7c05b55c518cfa9d364e85bed9ec7636a",
+  "hash": "a9a879789d937836f59f4a5337d262491e29b971c22c772cd5bcbe625e6476f0"
+ },
+ {
+  "entry": {
+   "incident_id": "7823caf9-5858-456b-b995-db1e07e9f02e",
+   "match_id": 3754333,
+   "minute": 44,
+   "player": "Eric Dier",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.6481,
+   "surprise": -0.047,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:52.829705+00:00"
+  },
+  "prev_hash": "a9a879789d937836f59f4a5337d262491e29b971c22c772cd5bcbe625e6476f0",
+  "hash": "26128a649d582e1faccafda2d04e82ca80b255d552fdeb0314be8c8015908b9a"
+ },
+ {
+  "entry": {
+   "incident_id": "d5f984d5-88f5-4a57-9e8c-f4f187fc5705",
+   "match_id": 3754333,
+   "minute": 45,
+   "player": "Ryan Mason",
+   "referee": "Anthony Taylor",
+   "referee_call": "yellow",
+   "model_pred": "no_foul",
+   "p_call": 0.0443,
+   "surprise": -0.06,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:52.984632+00:00"
+  },
+  "prev_hash": "26128a649d582e1faccafda2d04e82ca80b255d552fdeb0314be8c8015908b9a",
+  "hash": "b9e2f2229c76d501dca28af8ce40a524bdabd2149fb652b99eb0bdf834aa14e1"
+ },
+ {
+  "entry": {
+   "incident_id": "1f1d3945-845f-42aa-a523-d3c85e12fd8e",
+   "match_id": 3754333,
+   "minute": 46,
+   "player": "Erik Lamela",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7375,
+   "surprise": -0.176,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:53.139451+00:00"
+  },
+  "prev_hash": "b9e2f2229c76d501dca28af8ce40a524bdabd2149fb652b99eb0bdf834aa14e1",
+  "hash": "61d598b368b241accd203cdae9155bcf895f0c10da437f3ce4fabdba158e0ec5"
+ },
+ {
+  "entry": {
+   "incident_id": "a94585ef-5aa8-4907-a6eb-69e13c7f714e",
+   "match_id": 3754333,
+   "minute": 46,
+   "player": "Moussa Sissoko",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.4322,
+   "surprise": -0.244,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:53.294404+00:00"
+  },
+  "prev_hash": "61d598b368b241accd203cdae9155bcf895f0c10da437f3ce4fabdba158e0ec5",
+  "hash": "ac79c2d2d585aad345fbf5655513e60aad4d1aa0163dc6b622f7aad7749de629"
+ },
+ {
+  "entry": {
+   "incident_id": "838c53c1-8356-41ee-90b3-8eabccc80c73",
+   "match_id": 3754333,
+   "minute": 45,
+   "player": "Josh Onomah",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.5302,
+   "surprise": 0.154,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:53.449301+00:00"
+  },
+  "prev_hash": "ac79c2d2d585aad345fbf5655513e60aad4d1aa0163dc6b622f7aad7749de629",
+  "hash": "c8b3944c073bfe5918cf4ae78f9f1211b7b6187f33afec91fefed2d0b1b28fa5"
+ },
+ {
+  "entry": {
+   "incident_id": "a908db05-9481-491a-b043-068e7f6b9ebe",
+   "match_id": 3754333,
+   "minute": 46,
+   "player": "Eric Dier",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.3048,
+   "surprise": 0.105,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:53.604248+00:00"
+  },
+  "prev_hash": "c8b3944c073bfe5918cf4ae78f9f1211b7b6187f33afec91fefed2d0b1b28fa5",
+  "hash": "3ea0caae0c70e698ac4b708bf5854787f42a7ae5a3155311be5bc62fa024b491"
+ },
+ {
+  "entry": {
+   "incident_id": "6660d958-208a-498f-b1b5-75d46e30c734",
+   "match_id": 3754333,
+   "minute": 46,
+   "player": "Daryl Janmaat",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.569,
+   "surprise": 0.084,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:53.758820+00:00"
+  },
+  "prev_hash": "3ea0caae0c70e698ac4b708bf5854787f42a7ae5a3155311be5bc62fa024b491",
+  "hash": "96061ef11abd0ad304f2b23ba83369a14e1b3129b63fa9cb96081f64f2e0ad3e"
+ },
+ {
+  "entry": {
+   "incident_id": "cc1896d8-0fdf-42ce-b9a5-880768fdea6a",
+   "match_id": 3754333,
+   "minute": 48,
+   "player": "Erik Lamela",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.912,
+   "surprise": -0.388,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:53.913540+00:00"
+  },
+  "prev_hash": "96061ef11abd0ad304f2b23ba83369a14e1b3129b63fa9cb96081f64f2e0ad3e",
+  "hash": "b782e3853ed1ea7618b600da118ff736fb4fe0eca93bba88e5b160e7b54c8051"
+ },
+ {
+  "entry": {
+   "incident_id": "47d42ca3-7ffb-4887-8976-1358c46baf05",
+   "match_id": 3754333,
+   "minute": 49,
+   "player": "Ben Davies",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.9156,
+   "surprise": -0.392,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:54.068381+00:00"
+  },
+  "prev_hash": "b782e3853ed1ea7618b600da118ff736fb4fe0eca93bba88e5b160e7b54c8051",
+  "hash": "33fdc94dfe312533d0e0861276e92241f55142059d7f9b9f92a847573fbb76a2"
+ },
+ {
+  "entry": {
+   "incident_id": "36b98afe-2682-4898-bcf1-60be2a35569a",
+   "match_id": 3754333,
+   "minute": 50,
+   "player": "Toby Alderweireld",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.936,
+   "surprise": -0.414,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:54.223511+00:00"
+  },
+  "prev_hash": "33fdc94dfe312533d0e0861276e92241f55142059d7f9b9f92a847573fbb76a2",
+  "hash": "8229a3a7278e51177df5d77de34170823fc3d41301bcdf649700f15103e748b5"
+ },
+ {
+  "entry": {
+   "incident_id": "0e158464-21ed-497e-bb60-f4280c7c8e86",
+   "match_id": 3754333,
+   "minute": 52,
+   "player": "Josh Onomah",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.3314,
+   "surprise": 0.624,
+   "flag": true,
+   "logged_at": "2026-10-17T16:52:54.378313+00:00"
+  },
+  "prev_hash": "8229a3a7278e51177df5d77de34170823fc3d41301bcdf649700f15103e748b5",
+  "hash": "c960f0be773e549444e232e203d6203a6f370868d3e7f46313d2ed66a4a0a3fa"
+ },
+ {
+  "entry": {
+   "incident_id": "312c4f08-7fa5-412d-b4a5-fc1acac60989",
+   "match_id": 3754333,
+   "minute": 52,
+   "player": "Aleksandar Mitrovi\u0107",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "foul",
+   "p_call": 0.6116,
+   "surprise": -0.591,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:54.533019+00:00"
+  },
+  "prev_hash": "c960f0be773e549444e232e203d6203a6f370868d3e7f46313d2ed66a4a0a3fa",
+  "hash": "da90e19b644d748a95c6e63b8c6125cf5ec1a5d693fba7b69c7ec5db49f5ea68"
+ },
+ {
+  "entry": {
+   "incident_id": "2629197e-e3ad-44da-bbbf-ac35d50d327a",
+   "match_id": 3754333,
+   "minute": 55,
+   "player": "Cheik Isma\u00ebl Tiot\u00e9",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.1069,
+   "surprise": 1.153,
+   "flag": true,
+   "logged_at": "2026-10-17T16:52:54.687195+00:00"
+  },
+  "prev_hash": "da90e19b644d748a95c6e63b8c6125cf5ec1a5d693fba7b69c7ec5db49f5ea68",
+  "hash": "9f5ae2a67530728f4065e541bb76270fef33a5d7fe4f11bc7cf23f266f06f09e"
+ },
+ {
+  "entry": {
+   "incident_id": "42adde1e-b85f-44c7-a4ad-f7a21a675e7a",
+   "match_id": 3754333,
+   "minute": 59,
+   "player": "Josh Onomah",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7775,
+   "surprise": -0.229,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:54.842001+00:00"
+  },
+  "prev_hash": "9f5ae2a67530728f4065e541bb76270fef33a5d7fe4f11bc7cf23f266f06f09e",
+  "hash": "a6fb7ba86f0120d16a0843fb817e0dae0343e32c7d5762e8bb8661f97d463f96"
+ },
+ {
+  "entry": {
+   "incident_id": "c7d950f2-1910-4d87-8804-6e195561b942",
+   "match_id": 3754333,
+   "minute": 59,
+   "player": "Christian Dannemann Eriksen",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.5595,
+   "surprise": 0.1,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:54.996896+00:00"
+  },
+  "prev_hash": "a6fb7ba86f0120d16a0843fb817e0dae0343e32c7d5762e8bb8661f97d463f96",
+  "hash": "f6e3a849eb0de1d3724f097a2050b3f45f2b6423e468ef7df5155c8567332e39"
+ },
+ {
+  "entry": {
+   "incident_id": "61ac022c-a8b5-4c52-823a-699dfd89babf",
+   "match_id": 3754333,
+   "minute": 61,
+   "player": "Paul Dummett",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.473,
+   "surprise": 0.268,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:55.153569+00:00"
+  },
+  "prev_hash": "f6e3a849eb0de1d3724f097a2050b3f45f2b6423e468ef7df5155c8567332e39",
+  "hash": "3f5c4eb32c2277802b6bf4dfc7843154ea985b45278ed9292ca434390944bedc"
+ },
+ {
+  "entry": {
+   "incident_id": "b9d44ec1-2377-4dcc-b2cd-815ab6a5b0b0",
+   "match_id": 3754333,
+   "minute": 61,
+   "player": "Erik Lamela",
+   "referee": "Anthony Taylor",
+   "referee_call": "yellow",
+   "model_pred": "no_foul",
+   "p_call": 0.0203,
+   "surprise": 0.719,
+   "flag": true,
+   "logged_at": "2026-10-17T16:52:55.308157+00:00"
+  },
+  "prev_hash": "3f5c4eb32c2277802b6bf4dfc7843154ea985b45278ed9292ca434390944bedc",
+  "hash": "fa5405bc267bd5b504fa7400455f0ad4bc2c99776dfb35f88725e91a11aa7889"
+ },
+ {
+  "entry": {
+   "incident_id": "1790c85f-ee9c-41f6-a64b-803d6746f4c3",
+   "match_id": 3754333,
+   "minute": 62,
+   "player": "Aleksandar Mitrovi\u0107",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "foul",
+   "p_call": 0.577,
+   "surprise": -0.533,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:55.462834+00:00"
+  },
+  "prev_hash": "fa5405bc267bd5b504fa7400455f0ad4bc2c99776dfb35f88725e91a11aa7889",
+  "hash": "fad680ed2776474f4aa03e50e707f19488e02d35f68d04c7eea3a285abb809f5"
+ },
+ {
+  "entry": {
+   "incident_id": "e091f0c1-2921-426e-a76a-66cf04cbfb2b",
+   "match_id": 3754333,
+   "minute": 64,
+   "player": "Eric Dier",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.8077,
+   "surprise": -0.267,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:55.617463+00:00"
+  },
+  "prev_hash": "fad680ed2776474f4aa03e50e707f19488e02d35f68d04c7eea3a285abb809f5",
+  "hash": "32f82fdebba81e0abeb1f7547d8f38542de2c2111cfeddf952cee2c6ba3a7d06"
+ },
+ {
+  "entry": {
+   "incident_id": "4a6ff54d-560e-4437-8e36-ddc26a3ccd77",
+   "match_id": 3754333,
+   "minute": 64,
+   "player": "Aleksandar Mitrovi\u0107",
+   "referee": "Anthony Taylor",
+   "referee_call": "red",
+   "model_pred": "no_foul",
+   "p_call": 0.0003,
+   "surprise": 1.432,
+   "flag": true,
+   "logged_at": "2026-10-17T16:52:55.772398+00:00"
+  },
+  "prev_hash": "32f82fdebba81e0abeb1f7547d8f38542de2c2111cfeddf952cee2c6ba3a7d06",
+  "hash": "895029da00591808d73b944787a3ee3ec27872de8ba69bf4b019de68e6b7d18a"
+ },
+ {
+  "entry": {
+   "incident_id": "3e92470d-92e8-4436-ac4f-49bdaed7de1b",
+   "match_id": 3754333,
+   "minute": 71,
+   "player": "Jan Vertonghen",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.0943,
+   "surprise": 1.278,
+   "flag": true,
+   "logged_at": "2026-10-17T16:52:55.927302+00:00"
+  },
+  "prev_hash": "895029da00591808d73b944787a3ee3ec27872de8ba69bf4b019de68e6b7d18a",
+  "hash": "0a939e975ef926e456f1eb834f0c18a56b9c2de246d13ddbe307e2ee305ca624"
+ },
+ {
+  "entry": {
+   "incident_id": "3caaf669-5899-473f-8c06-9bff5722cb5d",
+   "match_id": 3754333,
+   "minute": 77,
+   "player": "Rolando Aarons",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.6572,
+   "surprise": -0.06,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:56.082591+00:00"
+  },
+  "prev_hash": "0a939e975ef926e456f1eb834f0c18a56b9c2de246d13ddbe307e2ee305ca624",
+  "hash": "52d6c6fd2acc444fa786a91e5b2fd2f32dfb578fe31d500732e91b43780f0ad3"
+ },
+ {
+  "entry": {
+   "incident_id": "1e1eedc8-f5f9-48d0-8615-29389a064930",
+   "match_id": 3754333,
+   "minute": 78,
+   "player": "Daryl Janmaat",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.3441,
+   "surprise": 0.587,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:56.237579+00:00"
+  },
+  "prev_hash": "52d6c6fd2acc444fa786a91e5b2fd2f32dfb578fe31d500732e91b43780f0ad3",
+  "hash": "85df1f2e88d6ba433858fbc39ca31217bb2c7719537f30cce2e6b4a883617477"
+ },
+ {
+  "entry": {
+   "incident_id": "05dd1acf-85d6-43e5-9130-4d735058ad0d",
+   "match_id": 3754333,
+   "minute": 78,
+   "player": "Tom Carroll",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.707,
+   "surprise": -0.134,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:56.392506+00:00"
+  },
+  "prev_hash": "85df1f2e88d6ba433858fbc39ca31217bb2c7719537f30cce2e6b4a883617477",
+  "hash": "dc7dbb702e576be15d2ebf3e0eb67b7aa8e381cfc5fa6798e5556b199c9e2dda"
+ },
+ {
+  "entry": {
+   "incident_id": "5142e77f-d372-4b13-87c1-52611f192707",
+   "match_id": 3754333,
+   "minute": 79,
+   "player": "Jack Colback",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7227,
+   "surprise": -0.155,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:56.547209+00:00"
+  },
+  "prev_hash": "dc7dbb702e576be15d2ebf3e0eb67b7aa8e381cfc5fa6798e5556b199c9e2dda",
+  "hash": "1c9612e31fcadc05672b173d98f8c13de2adb3472681d11c685693c90586c989"
+ },
+ {
+  "entry": {
+   "incident_id": "6afe0385-fb26-4a4a-b834-1feed372fb7b",
+   "match_id": 3754333,
+   "minute": 89,
+   "player": "Jack Colback",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.7059,
+   "surprise": -0.132,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:56.702285+00:00"
+  },
+  "prev_hash": "1c9612e31fcadc05672b173d98f8c13de2adb3472681d11c685693c90586c989",
+  "hash": "8c62a817c054a80a5758f609408267cb2db3d35a034d3da4cb0fc96f607664a4"
+ },
+ {
+  "entry": {
+   "incident_id": "b4686111-508a-4689-b22d-0c7dfd3f873d",
+   "match_id": 3754333,
+   "minute": 89,
+   "player": "Erik Lamela",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "foul",
+   "p_call": 0.4426,
+   "surprise": 0.335,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:56.856761+00:00"
+  },
+  "prev_hash": "8c62a817c054a80a5758f609408267cb2db3d35a034d3da4cb0fc96f607664a4",
+  "hash": "7db7fac6c9d7f2ec8de08a95229860483d3acf6eb482175af8346159921a5c83"
+ },
+ {
+  "entry": {
+   "incident_id": "b5957fb9-bac8-4b50-8cb3-d02b02b71e22",
+   "match_id": 3754333,
+   "minute": 91,
+   "player": "Jonjo Shelvey",
+   "referee": "Anthony Taylor",
+   "referee_call": "foul",
+   "model_pred": "no_foul",
+   "p_call": 0.257,
+   "surprise": 0.276,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:57.011181+00:00"
+  },
+  "prev_hash": "7db7fac6c9d7f2ec8de08a95229860483d3acf6eb482175af8346159921a5c83",
+  "hash": "c5cd87bb1dd42ab41566a5e1cd13a70db247ae52adf8d15f51575727502aaf13"
+ },
+ {
+  "entry": {
+   "incident_id": "f31e811f-a695-40f4-a051-f7020f43abac",
+   "match_id": 3754333,
+   "minute": 92,
+   "player": "Rolando Aarons",
+   "referee": "Anthony Taylor",
+   "referee_call": "no_foul",
+   "model_pred": "no_foul",
+   "p_call": 0.9634,
+   "surprise": -0.443,
+   "flag": false,
+   "logged_at": "2026-10-17T16:52:57.165783+00:00"
+  },
+  "prev_hash": "c5cd87bb1dd42ab41566a5e1cd13a70db247ae52adf8d15f51575727502aaf13",
+  "hash": "7a2fff6574e92754b3fc75e5065d275ea351f3f0ebc07dbf330d6443742a3b04"
+ }
+]

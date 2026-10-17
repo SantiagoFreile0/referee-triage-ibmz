@@ -1,0 +1,62 @@
+id,minute,player,team,referee_call,model_pred,p_call,surprise,flag,ms
+e6bb526a-2f4b-453e-9832-c592ce4c3b85,1,Andros Townsend,Newcastle United,foul,no_foul,0.26874542,0.23082392078412198,False,3.6435359997994965
+df8f977d-fa77-45bc-8220-746b03417767,2,Cheik Ismaël Tioté,Newcastle United,no_foul,no_foul,0.7593289,-0.20497921088763177,False,3.816508999079815
+a54024b3-a27b-4e71-8cba-5199bb5653f0,4,Ryan Mason,Tottenham Hotspur,no_foul,foul,0.49518776,0.2225188057414552,False,3.924512999219587
+24031441-1cb8-43df-894d-990b99733493,5,Daryl Janmaat,Newcastle United,no_foul,no_foul,0.79724616,-0.25370767865974453,False,4.035677999127074
+a080055a-a2b7-468e-b9fd-1bcc40544bd8,5,Cheik Ismaël Tioté,Newcastle United,no_foul,no_foul,0.7458601,-0.18708224051928565,False,3.948248000597232
+4197969c-1a83-423f-94f3-4cfaaa37d237,7,Daryl Janmaat,Newcastle United,no_foul,no_foul,0.83997124,-0.30591185000950855,False,4.186668000329519
+d1c0e783-cce2-4828-97a7-fbcaffc6a3e3,8,Cheik Ismaël Tioté,Newcastle United,no_foul,foul,0.47544658,0.2632012736622664,False,3.857464000248001
+1755c1c1-21e9-40dc-b9d6-aa1b1327ba55,8,Erik Lamela,Tottenham Hotspur,foul,foul,0.5291209,-0.4466285249012612,False,4.116719999728957
+9b20e705-e29a-4ed7-ab3b-19cdb9c74669,9,Kyle Walker,Tottenham Hotspur,no_foul,no_foul,0.7602861,-0.2062389919775636,False,3.8997480005491525
+9673e1bc-a05c-4df5-91e8-17ebec06654a,11,Christian Dannemann Eriksen,Tottenham Hotspur,no_foul,foul,0.48375914,0.24586868040470372,False,7.676524000999052
+96d7ec12-727f-44e1-a492-36a82dcb07af,11,Daryl Janmaat,Newcastle United,no_foul,no_foul,0.8893137,-0.36299423089735566,False,4.074418000527658
+88a25b51-7001-4fe4-a02c-d153f23facae,11,Ryan Mason,Tottenham Hotspur,no_foul,no_foul,0.65485847,-0.05696332758755653,False,4.7200369990605395
+9e977a8e-34e2-44d8-8248-b4ee0fd9948c,12,Christian Dannemann Eriksen,Tottenham Hotspur,no_foul,no_foul,0.5837421,0.05799656323831894,False,4.213762000290444
+2f5b975f-a91e-4163-93f6-58102302065b,13,Jack Colback,Newcastle United,no_foul,no_foul,0.86312264,-0.33310098396550486,False,4.218392001348548
+5e7291fd-03bd-443b-a2e1-74ff05434b0a,15,Chancel Mbemba Mangulu,Newcastle United,no_foul,no_foul,0.74416876,-0.18481202660058368,False,4.192630000034114
+673f2d6f-2216-499d-9d59-aa686ef4a159,15,Kyle Walker,Tottenham Hotspur,foul,no_foul,0.25508508,0.2829913270651803,False,4.425463001098251
+f71dd990-6e51-4212-bf98-630b8b447931,16,Cheik Ismaël Tioté,Newcastle United,no_foul,no_foul,0.5173195,0.1787951354179995,False,4.082100000232458
+8a4cdfdf-0c37-4230-86e1-3a932a3f4982,16,Chancel Mbemba Mangulu,Newcastle United,no_foul,no_foul,0.5527735,0.1125075188305816,False,4.053921999002341
+fc3b54c0-4d43-4a4f-99ec-c98de81bd9c0,17,Aleksandar Mitrović,Newcastle United,no_foul,foul,0.43998215,0.340721659435127,False,4.189393999695312
+967b38f6-00ad-4b17-b81a-b6b60c1c3e12,18,Erik Lamela,Tottenham Hotspur,no_foul,no_foul,0.54576683,0.1252639742429389,False,6.037694000042393
+5aee86e2-858e-4445-81b7-8b5d3c719dc4,19,Kyle Walker,Tottenham Hotspur,no_foul,no_foul,0.516197,0.1809672828065925,False,4.100645999642438
+c27f41a5-77c9-497f-bd7b-efdc37ea98a5,19,Jack Colback,Newcastle United,no_foul,no_foul,0.9360256,-0.41418703906341836,False,3.9717630006634863
+b608fd45-e45a-47e3-8234-980a9f4bb670,20,Aleksandar Mitrović,Newcastle United,no_foul,no_foul,0.66564417,-0.07329943845350195,False,4.131511001105537
+02ba658e-31a8-42f1-a574-3a9bd19adab9,24,Moussa Sissoko,Newcastle United,no_foul,no_foul,0.5972049,0.03519549815247826,False,4.09328500063566
+a7e41c9c-6e5c-4358-ae66-40d342c577b5,26,Jack Colback,Newcastle United,foul,no_foul,0.4459616,-0.2756443704946677,False,4.339028000686085
+881cf04c-bc80-41b2-b8e1-e18e1db3813c,26,Heung-Min Son,Tottenham Hotspur,foul,foul,0.6482635,-0.6497088041475335,False,4.468361999897752
+8b4cfef7-a071-400d-9525-6506f2e5000d,30,Ben Davies,Tottenham Hotspur,no_foul,no_foul,0.7992546,-0.25622373029881645,False,4.404498000440071
+24e5488f-d83b-4664-8f0f-2d54a3a3aeb4,32,Jack Colback,Newcastle United,no_foul,no_foul,0.6520919,-0.05272972585353523,False,4.188799999610637
+f5f54dfa-736b-4402-bfd0-deaa132cca67,37,Aleksandar Mitrović,Newcastle United,foul,foul,0.6528665,-0.6567841738746887,False,4.181575999609777
+afa371e5-3056-437c-8479-dc74d7a1b3da,43,Cheik Ismaël Tioté,Newcastle United,no_foul,no_foul,0.64463586,-0.041229784955799806,False,4.172876999291475
+9643d698-4e58-4103-98ba-c737c3516eba,44,Erik Lamela,Tottenham Hotspur,no_foul,foul,0.40209952,0.4307561882174616,False,4.3654109995259205
+c6a337a8-a0cc-4db1-bdce-2c7c20e13ce5,44,Eric Dier,Tottenham Hotspur,foul,no_foul,0.44251,-0.267874615962183,False,4.286649000277976
+7823caf9-5858-456b-b995-db1e07e9f02e,44,Eric Dier,Tottenham Hotspur,no_foul,no_foul,0.6480702,-0.04654324047512604,False,3.997232000983786
+d5f984d5-88f5-4a57-9e8c-f4f187fc5705,45,Ryan Mason,Tottenham Hotspur,yellow,no_foul,0.044307824,-0.06005491443746123,False,4.275018998669111
+1f1d3945-845f-42aa-a523-d3c85e12fd8e,46,Erik Lamela,Tottenham Hotspur,no_foul,no_foul,0.7374733,-0.17577408811937661,False,4.096717999345856
+a94585ef-5aa8-4907-a6eb-69e13c7f714e,46,Moussa Sissoko,Newcastle United,foul,no_foul,0.43220636,-0.24431469811159537,False,4.221682000206783
+838c53c1-8356-41ee-90b3-8eabccc80c73,45,Josh Onomah,Tottenham Hotspur,no_foul,no_foul,0.53021914,0.1541654199161932,False,4.291266001018812
+a908db05-9481-491a-b043-068e7f6b9ebe,46,Eric Dier,Tottenham Hotspur,foul,no_foul,0.30480248,0.1049245154138357,False,4.501191000599647
+6660d958-208a-498f-b1b5-75d46e30c734,46,Daryl Janmaat,Newcastle United,no_foul,no_foul,0.5689629,0.08364062757847637,False,4.807211000297684
+cc1896d8-0fdf-42ce-b9a5-880768fdea6a,48,Erik Lamela,Tottenham Hotspur,no_foul,no_foul,0.91198343,-0.3881660131648554,False,4.245656999046332
+47d42ca3-7ffb-4887-8976-1358c46baf05,49,Ben Davies,Tottenham Hotspur,no_foul,no_foul,0.91560847,-0.3921330257651607,False,3.8970639998296974
+36b98afe-2682-4898-bcf1-60be2a35569a,50,Toby Alderweireld,Tottenham Hotspur,no_foul,no_foul,0.9360379,-0.4142001567345964,False,3.6382310008775676
+0e158464-21ed-497e-bb60-f4280c7c8e86,52,Josh Onomah,Tottenham Hotspur,no_foul,foul,0.3313692,0.6242226726089906,True,3.774898999836296
+312c4f08-7fa5-412d-b4a5-fc1acac60989,52,Aleksandar Mitrović,Newcastle United,foul,foul,0.6116013,-0.5914921213077419,False,4.034176001368905
+2629197e-e3ad-44da-bbbf-ac35d50d327a,55,Cheik Ismaël Tioté,Newcastle United,foul,no_foul,0.10687757,1.152904466741717,True,4.633304000890348
+42adde1e-b85f-44c7-a4ad-f7a21a675e7a,59,Josh Onomah,Tottenham Hotspur,no_foul,no_foul,0.777456,-0.2285712239133142,False,4.1340940006193705
+c7d950f2-1910-4d87-8804-6e195561b942,59,Christian Dannemann Eriksen,Tottenham Hotspur,no_foul,no_foul,0.55952466,0.1003682147845888,False,4.080314000020735
+61ac022c-a8b5-4c52-823a-699dfd89babf,61,Paul Dummett,Newcastle United,no_foul,foul,0.47300592,0.26834790266655045,False,4.19304800016107
+b9d44ec1-2377-4dcc-b2cd-815ab6a5b0b0,61,Erik Lamela,Tottenham Hotspur,yellow,no_foul,0.020325825,0.7192141398366223,True,4.366332999779843
+1790c85f-ee9c-41f6-a64b-803d6746f4c3,62,Aleksandar Mitrović,Newcastle United,foul,foul,0.5770215,-0.5332910251557882,False,4.28127400118683
+e091f0c1-2921-426e-a76a-66cf04cbfb2b,64,Eric Dier,Tottenham Hotspur,no_foul,no_foul,0.8077405,-0.26678504703681843,False,4.372416000478552
+4a6ff54d-560e-4437-8e36-ddc26a3ccd77,64,Aleksandar Mitrović,Newcastle United,red,no_foul,0.00027580812,1.4320206430110511,True,4.968995999661274
+3e92470d-92e8-4436-ac4f-49bdaed7de1b,71,Jan Vertonghen,Tottenham Hotspur,foul,no_foul,0.094326444,1.277826892823902,True,5.3470050006581005
+3caaf669-5899-473f-8c06-9bff5722cb5d,77,Rolando Aarons,Newcastle United,no_foul,no_foul,0.6571542,-0.06046288958020136,False,4.1002540001500165
+1e1eedc8-f5f9-48d0-8615-29389a064930,78,Daryl Janmaat,Newcastle United,no_foul,foul,0.3440841,0.5865696638576223,False,4.275487000995781
+05dd1acf-85d6-43e5-9130-4d735058ad0d,78,Tom Carroll,Tottenham Hotspur,no_foul,no_foul,0.7070295,-0.13361661267947925,False,4.3110749993502395
+5142e77f-d372-4b13-87c1-52611f192707,79,Jack Colback,Newcastle United,no_foul,no_foul,0.72265863,-0.15548115046551778,False,4.029570000056992
+6afe0385-fb26-4a4a-b834-1feed372fb7b,89,Jack Colback,Newcastle United,no_foul,no_foul,0.7059118,-0.1320345136878384,False,4.35923700024432
+b4686111-508a-4689-b22d-0c7dfd3f873d,89,Erik Lamela,Tottenham Hotspur,no_foul,foul,0.44264567,0.3346862025896751,False,4.192591000901302
+b5957fb9-bac8-4b50-8cb3-d02b02b71e22,91,Jonjo Shelvey,Newcastle United,foul,no_foul,0.25700238,0.2755031079574377,False,4.25767500018992
+f31e811f-a695-40f4-a051-f7020f43abac,92,Rolando Aarons,Newcastle United,no_foul,no_foul,0.9634088,-0.44302204899964454,False,4.173401999651105
