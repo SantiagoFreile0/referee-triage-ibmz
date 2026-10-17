@@ -73,7 +73,7 @@ The probabilities carry real information, which is what the ranking relies on. D
 
 - [Name]
 - [Name]
-- [Name]
+- Francisco Rojas
 - Santiago Freile
 
 ## Open-source resources
