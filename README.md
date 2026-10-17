@@ -72,7 +72,7 @@ The probabilities carry real information, which is what the ranking relies on. D
 ## Team
 
 - [Name]
-- [Name]
+- Juan Esquivel
 - Francisco Rojas
 - Santiago Freile
 
